@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc5cf51-402d-4de2-906b-3f37b4e7c221" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ky.db" beforeDir="false" afterPath="$PROJECT_DIR$/ky.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uclip.sh" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,22 +14,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="init.sh" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/init.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
+      <file leaf-file-name="uclip" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uclip">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="uclip.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uclip.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
+      <file leaf-file-name="init" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/init">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -262,9 +255,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uclip">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/uclip.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -278,6 +268,12 @@
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uclip">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
