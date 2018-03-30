@@ -1,6 +1,6 @@
 # uclip
 Extract the downloaded git file<br/>
-Then, give " cd uclip ", followed by " chmod 777 * " ,<br/>
+Then, give " cd uclip ",<br/>
 Followed by " ./init "<br/>
 The packages and necessary libraries will be installed .<br/>
 
