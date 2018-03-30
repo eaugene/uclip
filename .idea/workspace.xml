@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc5cf51-402d-4de2-906b-3f37b4e7c221" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/init.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uclip.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/init" beforeDir="false" afterPath="$PROJECT_DIR$/init" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +20,11 @@
       </file>
       <file leaf-file-name="init" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/init">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -48,6 +51,7 @@
         <option value="$PROJECT_DIR$/end.py" />
         <option value="$PROJECT_DIR$/init.sh" />
         <option value="$PROJECT_DIR$/uclip.sh" />
+        <option value="$PROJECT_DIR$/init" />
       </list>
     </option>
   </component>
@@ -273,7 +277,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/init">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
